@@ -2,6 +2,7 @@ name: Spinark IoT
 favicon: null
 layout_spectrum: 0.5118990908376873
 typography_spectrum: 0.5358770519960672
+title: 'spinark, One Stop Shop for IoT projects'
 cta:
   domain: null
   bucket: null
