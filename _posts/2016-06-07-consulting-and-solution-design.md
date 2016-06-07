@@ -7,8 +7,8 @@ keywords: []
 description: >-
   We advise companies on strategy and new business opportunities enabled by IoT
   technologies, digital-service eco-systems and multi-sided business models. 
-datePublished: '2016-06-07T17:09:02.356Z'
-dateModified: '2016-06-07T17:07:09.448Z'
+datePublished: '2016-06-07T17:29:02.152Z'
+dateModified: '2016-06-07T17:28:58.625Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
@@ -33,12 +33,16 @@ Whether you are in the early stages of an M2M project, or in the latter stages o
 
 Services offer include: 
 
-: what data are needed and how they will be used 
+****
 
-of the proper M2M architecture with the proper data collection strategy 
+Business Process Analysis and digitalization options: what data are needed and how they will be used 
 
-of the wireless connectivity technology (wireless providers and technologies) 
+****
 
-of the user interface, web, and mobile app for a unique user experience 
+Specification and design of the proper M2M architecture with the proper data collection strategy 
 
-device provisioning, security, data management & storage, account management & billing, analytics
+Selection and integration of the wireless connectivity technology (wireless providers and technologies) 
+
+Design and development of the user interface, web, and mobile app for a unique user experience 
+
+Back-end infrastructure, platform integration, device provisioning, security, data management & storage, account management, billing and analytics
