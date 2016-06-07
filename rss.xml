@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Spinark, One Stop Shop for IoT projects]]></title>
+        <description><![CDATA[Spinark, One Stop Shop for IoT projects]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 16:56:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What IoT applications you can create and run]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1623a5ce-a464-44ef-9513-518de9a6ff55.png" alt="Smart Building" title="">]]></description>
+            <link>undefinedwhat-iot-applications-you-can-create-and-run/index.html</link>
+            <guid isPermaLink="false">772e3a53-da93-4ee9-8c07-f90242d05dbe</guid>
+            <pubDate>Tue, 07 Jun 2016 16:55:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
