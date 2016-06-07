@@ -1,4 +1,4 @@
-name: Spinark IoT
+name: Spinark
 favicon: null
 layout_spectrum: 0.5118990908376873
 typography_spectrum: 0.5358770519960672
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.938473735935986
-  lightness: 0.604735323227942
-  saturation: 0.3790709627792239
-  rhythmicContrast: 0.5972246048040688
+    - '#ffffff'
+    - '#94ba33'
+    - '#414143'
+    - '#b6b6b6'
+    - '#929292'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
