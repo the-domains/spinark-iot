@@ -1,20 +1,20 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   We advise companies on strategy and new business opportunities enabled by IoT
   technologies, digital-service eco-systems and multi-sided business models. 
-datePublished: '2016-06-07T16:55:59.982Z'
-dateModified: '2016-06-07T16:55:59.472Z'
+datePublished: '2016-06-07T17:09:02.356Z'
+dateModified: '2016-06-07T17:07:09.448Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
 url: consulting-and-solution-design/index.html
 _type: Article
 
