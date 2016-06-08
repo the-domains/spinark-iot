@@ -6,9 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   Our technology injects the information generated from connected products
-  directly into an organization’s business processes. 
-datePublished: '2016-06-07T19:59:36.558Z'
-dateModified: '2016-06-07T19:59:22.523Z'
+  directly into an organization’s business processes 
+datePublished: '2016-06-08T14:44:05.090Z'
+dateModified: '2016-06-08T14:44:04.028Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-optimize-your-business-processes-with-iot.md
@@ -19,4 +19,4 @@ url: optimize-your-business-processes-with-iot/index.html
 _type: Article
 
 ---
-Our technology injects the information generated from connected products directly into an organization's business processes.
+Our technology injects the information generated from connected products directly into an organization's business processes ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ade542d-079f-4d95-8fed-3cd5f994037a.jpg)
