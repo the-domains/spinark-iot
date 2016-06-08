@@ -1,20 +1,4 @@
-name: Spinark
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
-title: 'Spinark, One Stop Shop for IoT projects'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#414143'
     - '#b6b6b6'
     - '#929292'
-  brandStrength: 0.125
+  brandStrength: 0.456081
   lightness: 1
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0
+name: Spinark
+opengraph: {}
 purpose: []
+typography_spectrum: 0.803209
