@@ -7,10 +7,12 @@ keywords: []
 description: >-
   Our technology injects the information generated from connected products
   directly into an organization’s business processes 
-datePublished: '2016-06-08T14:44:05.090Z'
-dateModified: '2016-06-08T14:44:04.028Z'
+datePublished: '2016-06-08T15:43:53.015Z'
+dateModified: '2016-06-08T15:41:42.604Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-07-optimize-your-business-processes-with-iot.md
 authors: []
 publisher: null
