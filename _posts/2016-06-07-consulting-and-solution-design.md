@@ -7,8 +7,8 @@ keywords: []
 description: >-
   We advise companies on strategy and new business opportunities enabled by IoT
   technologies, digital-service eco-systems and multi-sided business models. 
-datePublished: '2016-06-07T17:29:02.152Z'
-dateModified: '2016-06-07T17:28:58.625Z'
+datePublished: '2016-06-08T15:40:32.093Z'
+dateModified: '2016-06-08T15:40:28.326Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
@@ -21,15 +21,15 @@ _type: Article
 ---
 We advise companies on strategy and new business opportunities enabled by IoT technologies, digital-service eco-systems and multi-sided business models. 
 
-We help companies to identify new opportunities, to evaluate the business case and to plan for implementation
+Our aim is to help companies identify new opportunities, evaluate the business case and plan for implementation
 
 Internet of Things (IoT) and Machine to Machine (M2M) focus on transforming bits of data collected at the edge of a pervasive distributed system into actionable information and knowledge for business decision makers and end users. These transformations are driving a big change in all industries.
 
-Spinark helps you to discover the competitive advantage that these new technology can bring to your organization and puts you on the right track for a quick deployment on proven platforms and solutions. 
+Spinark helps you to discover the competitive advantage that these new technologies can bring to your organization and puts you on the right track for a quick deployment on proven platforms and solutions. 
 
 We work closely with you to understand your unique needs. Through the analysis of your business processes and business drivers, we will work together to leverage technology solutions to amplify your business through: cost minimization, increased productivity, new business models and revenue streams. 
 
-Whether you are in the early stages of an M2M project, or in the latter stages of defining your offering, our experienced team of M2M specialists and partners will get you to market on time, on budget, and with a state-of-art solution. 
+Whether you are in the early stages of an M2M/IoT project, or in the latter stages of defining your offering, our experienced specialists and partners will get you to market on time, on budget, and with a state-of-art solution. 
 
 Services offer include: 
 
