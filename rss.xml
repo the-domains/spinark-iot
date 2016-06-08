@@ -4,7 +4,7 @@
         <description><![CDATA[Spinark, One Stop Shop for IoT projects]]></description>
         <link>http://spinark.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 16:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 17:00:16 GMT</lastBuildDate>
         <atom:link href="http://spinark.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Spinark]]></title>
@@ -12,6 +12,13 @@
             <link>http://spinark.com/spinark/index.html</link>
             <guid isPermaLink="false">2587ef4c-45c0-495d-b3b8-b8a88ef191bb</guid>
             <pubDate>Wed, 08 Jun 2016 14:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solution implementation]]></title>
+            <description><![CDATA[<p>We work with an extensive network of partners that help us build innovative end-to-end IoT/M2M applications. We carry out customized technological development and lead the project management.</p>]]></description>
+            <link>http://spinark.com/solution-implementation/index.html</link>
+            <guid isPermaLink="false">e965817e-3664-4f75-be97-85d39e09c8e8</guid>
+            <pubDate>Wed, 08 Jun 2016 17:00:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Consulting and  Solution Design]]></title>
@@ -26,13 +33,6 @@
             <link>http://spinark.com/optimize-your-business-processes-with-iot/index.html</link>
             <guid isPermaLink="false">3561224d-c0c7-4713-a6ae-353419c74871</guid>
             <pubDate>Wed, 08 Jun 2016 16:56:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Solution implementation]]></title>
-            <description><![CDATA[<p>We work with an extensive network of partners that help us build innovative end-to-end IoT/M2M applications. We carry out customized technological development and lead the project management.</p>]]></description>
-            <link>http://spinark.com/solution-implementation/index.html</link>
-            <guid isPermaLink="false">e965817e-3664-4f75-be97-85d39e09c8e8</guid>
-            <pubDate>Wed, 08 Jun 2016 15:40:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
