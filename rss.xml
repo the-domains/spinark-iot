@@ -4,7 +4,7 @@
         <description><![CDATA[Spinark, One Stop Shop for IoT projects]]></description>
         <link>http://spinark.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 17:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 17:00:42 GMT</lastBuildDate>
         <atom:link href="http://spinark.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Spinark]]></title>
@@ -12,6 +12,13 @@
             <link>http://spinark.com/spinark/index.html</link>
             <guid isPermaLink="false">2587ef4c-45c0-495d-b3b8-b8a88ef191bb</guid>
             <pubDate>Wed, 08 Jun 2016 14:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optimize your business processes with IoT]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e33c3c6-23a0-4e9d-ad73-360bc6c36c5b.jpg" alt="" title="">]]></description>
+            <link>http://spinark.com/optimize-your-business-processes-with-iot/index.html</link>
+            <guid isPermaLink="false">3561224d-c0c7-4713-a6ae-353419c74871</guid>
+            <pubDate>Wed, 08 Jun 2016 17:00:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solution implementation]]></title>
@@ -26,13 +33,6 @@
             <link>http://spinark.com/consulting-and-solution-design/index.html</link>
             <guid isPermaLink="false">1471e4be-244a-4eb6-bcb9-dd7c1f518fc4</guid>
             <pubDate>Wed, 08 Jun 2016 16:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Optimize your business processes with IoT]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e33c3c6-23a0-4e9d-ad73-360bc6c36c5b.jpg" alt="" title="">]]></description>
-            <link>http://spinark.com/optimize-your-business-processes-with-iot/index.html</link>
-            <guid isPermaLink="false">3561224d-c0c7-4713-a6ae-353419c74871</guid>
-            <pubDate>Wed, 08 Jun 2016 16:56:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
