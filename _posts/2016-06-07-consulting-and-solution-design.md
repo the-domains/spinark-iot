@@ -7,8 +7,8 @@ keywords: []
 description: >-
   We advise companies on strategy and new business opportunities enabled by IoT
   technologies, digital-service eco-systems and multi-sided business models. 
-datePublished: '2016-06-08T15:40:32.093Z'
-dateModified: '2016-06-08T15:40:28.326Z'
+datePublished: '2016-06-08T16:52:17.642Z'
+dateModified: '2016-06-08T16:52:08.549Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
@@ -35,14 +35,14 @@ Services offer include:
 
 ****
 
-Business Process Analysis and digitalization options: what data are needed and how they will be used 
+**Business Process Analysis and digitalization options**: what data are needed and how they will be used 
 
 ****
 
-Specification and design of the proper M2M architecture with the proper data collection strategy 
+**Specification and design** of the proper M2M architecture with the proper data collection strategy 
 
-Selection and integration of the wireless connectivity technology (wireless providers and technologies) 
+**Selection and integration of the wireless connectivity technology** (wireless providers and technologies) 
 
-Design and development of the user interface, web, and mobile app for a unique user experience 
+**Design and development** of the user interface, web, and mobile app for a unique user experience 
 
 Back-end infrastructure, platform integration, device provisioning, security, data management & storage, account management, billing and analytics
