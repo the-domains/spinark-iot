@@ -8,8 +8,8 @@ description: >-
   We work with an extensive network of partners that help us build innovative
   end-to-end IoT/M2M applications. We carry out customized technological
   development and lead the project management.
-datePublished: '2016-06-08T15:40:43.560Z'
-dateModified: '2016-06-08T15:36:52.766Z'
+datePublished: '2016-06-08T17:00:13.832Z'
+dateModified: '2016-06-08T17:00:11.424Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-solution-implementation.md
