@@ -7,8 +7,8 @@ keywords: []
 description: >-
   We advise companies on strategy and new business opportunities enabled by IoT
   technologies, digital-service eco-systems and multi-sided business models. 
-datePublished: '2016-06-08T16:52:17.642Z'
-dateModified: '2016-06-08T16:52:08.549Z'
+datePublished: '2016-06-08T16:56:31.319Z'
+dateModified: '2016-06-08T16:56:27.578Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-consulting-and-solution-design.md
@@ -45,4 +45,4 @@ Services offer include:
 
 **Design and development** of the user interface, web, and mobile app for a unique user experience 
 
-Back-end infrastructure, platform integration, device provisioning, security, data management & storage, account management, billing and analytics
+Back-end infrastructure, **platform integration**, device provisioning, security, data management & storage, account management, billing and analytics
