@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  We work with an extensive network of partners that help us build innovation
+  We work with an extensive network of partners that help us build innovative
   end-to-end IoT/M2M applications. We carry out customized technological
   development and lead the project management.
-datePublished: '2016-06-07T17:09:10.757Z'
-dateModified: '2016-06-07T17:07:35.638Z'
+datePublished: '2016-06-08T15:40:43.560Z'
+dateModified: '2016-06-08T15:36:52.766Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-07-solution-implementation.md
@@ -20,6 +20,6 @@ url: solution-implementation/index.html
 _type: Article
 
 ---
-We work with an extensive network of partners that help us build innovation end-to-end IoT/M2M applications. We carry out customized technological development and lead the project management.
+We work with an extensive network of partners that help us build innovative end-to-end IoT/M2M applications. We carry out customized technological development and lead the project management.
 
 Partners include custom hardware designers and manufacturers, software solution providers, sensor, gateway and network switches distributors, ...
