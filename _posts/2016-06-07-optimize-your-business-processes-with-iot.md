@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Our technology injects the information generated from connected products
   directly into an organization’s business processes 
-datePublished: '2016-06-08T15:43:53.015Z'
-dateModified: '2016-06-08T15:41:42.604Z'
+datePublished: '2016-06-08T15:46:46.026Z'
+dateModified: '2016-06-08T15:46:42.610Z'
 title: ''
 author:
   - name: ''
