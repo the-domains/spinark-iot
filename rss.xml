@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Spinark]]></title>
-        <description><![CDATA[Spinark]]></description>
+        <title><![CDATA[Spinark, One Stop Shop for IoT projects]]></title>
+        <description><![CDATA[Spinark, One Stop Shop for IoT projects]]></description>
         <link>http://spinark.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 14:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 14:13:12 GMT</lastBuildDate>
         <atom:link href="http://spinark.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<p>Spinark is a company with offices in Switzerland and Morocco and is focused on solution design, application development, system integration, and business consulting in IoT</p>]]></description>
             <link>http://spinark.com/spinark/index.html</link>
             <guid isPermaLink="false">2587ef4c-45c0-495d-b3b8-b8a88ef191bb</guid>
-            <pubDate>Thu, 09 Jun 2016 14:09:57 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2016 14:13:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Optimize your business processes with IoT]]></title>
